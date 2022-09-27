@@ -2,5 +2,6 @@
 
 Console.WriteLine("TEST");
 
-string s = Console.ReadLine();
-Console.WriteLine(s);
+double f = 3.1574841541;
+Console.WriteLine($"Number: {f*2}");
+Console.ReadLine();
